@@ -1,0 +1,13 @@
+1:"$Sreact.fragment"
+2:I[88589,["/portfolio/_next/static/chunks/158myu8e_yme3.js","/portfolio/_next/static/chunks/1t05ltfnx7eg2.js"],"Navigation"]
+3:I[77258,["/portfolio/_next/static/chunks/158myu8e_yme3.js","/portfolio/_next/static/chunks/1t05ltfnx7eg2.js"],"Hero"]
+4:I[75706,["/portfolio/_next/static/chunks/158myu8e_yme3.js","/portfolio/_next/static/chunks/1t05ltfnx7eg2.js"],"About"]
+5:I[13659,["/portfolio/_next/static/chunks/158myu8e_yme3.js","/portfolio/_next/static/chunks/1t05ltfnx7eg2.js"],"Skills"]
+6:I[34506,["/portfolio/_next/static/chunks/158myu8e_yme3.js","/portfolio/_next/static/chunks/1t05ltfnx7eg2.js"],"Experience"]
+7:I[68264,["/portfolio/_next/static/chunks/158myu8e_yme3.js","/portfolio/_next/static/chunks/1t05ltfnx7eg2.js"],"Projects"]
+8:I[47710,["/portfolio/_next/static/chunks/158myu8e_yme3.js","/portfolio/_next/static/chunks/1t05ltfnx7eg2.js"],"Contact"]
+9:I[13642,["/portfolio/_next/static/chunks/158myu8e_yme3.js","/portfolio/_next/static/chunks/1t05ltfnx7eg2.js"],"Footer"]
+a:I[97367,["/portfolio/_next/static/chunks/158myu8e_yme3.js"],"OutletBoundary"]
+b:"$Sreact.suspense"
+0:{"rsc":["$","$1","c",{"children":[[["$","$L2",null,{}],["$","main",null,{"className":"relative","children":[["$","$L3",null,{}],["$","$L4",null,{}],["$","$L5",null,{}],["$","$L6",null,{}],["$","$L7",null,{}],["$","$L8",null,{}]]}],["$","$L9",null,{}]],[["$","script","script-0",{"src":"/portfolio/_next/static/chunks/1t05ltfnx7eg2.js","async":true}]],["$","$La",null,{"children":["$","$b",null,{"name":"Next.MetadataOutlet","children":"$@c"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"gCvpwt071ZB7QLlm-1vfw"}
+c:null
